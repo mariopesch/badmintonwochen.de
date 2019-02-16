@@ -1,0 +1,163 @@
+- name: SC Münster 08
+  image: /img/vereine/MS08-Logo.jpg
+  position: 1
+  description: 
+  Liga: KK - OL 
+  O19: 8 Teams
+  U19: 3 Teams
+  homepage: https://www.scmuenster08.de/badminton/
+  turnierde: https://www.turnier.de/sport/club.aspx?id=95E4D9B3-8ECF-4B90-AC3E-3187852F20FD&club=68
+  facebook: https://www.facebook.com/SCMuenster08Badminton/
+  instagram: https://www.instagram.com/badmintonscmuenster08/
+
+- name: TuS Saxonia Münster
+  image: /img/vereine/01_tussaxmuenster.png
+  position: 2
+  description: 
+  Liga: KK - LL
+  O19: 4 Teams
+  U19: 
+  homepage: https://www.teamlr.de/tus-saxonia-badminton
+  turnierde: https://www.turnier.de/sport/club.aspx?id=95E4D9B3-8ECF-4B90-AC3E-3187852F20FD&club=329
+  facebook: https://www.facebook.com/TusSaxoniaMunsterBadminton/
+  instagram: https://www.instagram.com/badminton_tus_sax_ms/
+
+- name: TSC Münster-Gievenbeck
+  image: /img/vereine/01_tscmuenster.jpg
+  position: 3
+  description: 
+  Liga: BK - BL
+  O19: 4 Teams
+  U19: 1 Team
+  homepage: http://tsc-muenster-gievenbeck.de/badminton/
+  turnierde: https://www.turnier.de/sport/club.aspx?id=95E4D9B3-8ECF-4B90-AC3E-3187852F20FD&club=336
+  facebook: https://www.facebook.com/TSC-Münster-Gievenbeck-Badminton-775379839236445/
+
+
+- name: SC Gremmendorf
+  image: /img/vereine/01_scgremmendorf.png
+  position: 4
+  description: 
+  Liga: KK - KL
+  O19: 2 Teams
+  U19: 2 Teams
+  homepage: http://scg-badminton.de/ansprechpartner/
+  turnierde: https://www.turnier.de/sport/club.aspx?id=95E4D9B3-8ECF-4B90-AC3E-3187852F20FD&club=264
+  facebook: 
+  instagram:
+
+- name: Djk SC Nienberge
+  image: /img/vereine/01_djkscnienberge.png
+  position: 5
+  description: 
+  Liga: KK
+  O19: 1 Team
+  U19: 
+  homepage: http://www.sc-nienberge.de/index.php/badminton.html
+  turnierde: https://www.turnier.de/sport/club.aspx?id=95E4D9B3-8ECF-4B90-AC3E-3187852F20FD&club=309
+
+
+- name: SC Westfalen Kinderhaus
+  image: /img/vereine/01_scwestfaliakinderhaus.jpg
+  position: 6
+  description: 
+  Liga: KK
+  O19: 1 Team
+  U19: 2 Teams
+  homepage: https://www.westfalia-kinderhaus.de/sportangebote/badminton/index.html
+  turnierde: https://www.turnier.de/sport/club.aspx?id=95E4D9B3-8ECF-4B90-AC3E-3187852F20FD&club=317
+
+- name: TG Münster
+  image: /img/vereine/01_tgmuenster.jpg
+  position: 7
+  description: 
+  Liga: 
+  O19: 
+  U19: 
+  homepage: https://tg-muenster.de/badminton/
+
+
+- name: SV Blau-Weiß Aasee
+  image: /img/vereine/01_svbwaasee.png
+  position: 8
+  description: 
+  Liga: 
+  O19: 
+  U19: 
+  homepage: http://www.blau-weiss-aasee.de/?c=pages&i=30&mp=26
+
+
+- name: TV Wolbeck
+  image: /img/vereine/01_tvwolbeck.jpeg
+  position: 9
+  description: 
+  Liga: 
+  O19:
+  U19: 
+  homepage: https://www.tvwolbeck.de/sportangebot/ballsport/badminton/
+
+- name: Djk SV Borussia 07 Münster
+  image: /img/vereine/01_djksv07muenster.jpg
+  position: 10
+  description: 
+  Liga: 
+  O19: 
+  U19: 
+  homepage: https://www.teamlr.de/borussia-muenster-Badminton/news/4537778/Badmintonangebot
+
+- name: GW Gelmer
+  image: /img/vereine/01_gelmer.png
+  position: 11
+  description: 
+  Liga: 
+  O19: 
+  U19: 
+  homepage: https://www.teamlr.de/GWGBadminton/news/5246433/Badminton-Interessierte-aufgepasst- 
+
+- name: SV Concordia Albachten
+  image: /img/vereine/01_albachten.gif
+  position: 12
+  description: 
+  Liga: 
+  O19: 
+  U19: 
+  homepage: https://www.concordia-albachten.de/badmintonabteilung
+
+- name: Djk SV Mauritz
+  image: /img/vereine/01_mauritz.png
+  position: 13
+  description: 
+  Liga: 
+  O19: 
+  U19: 
+  homepage: http://www.sv-mauritz.de/index.php?id=badminton 
+
+
+- name: TSV Angelmodde
+  image: /img/vereine/01_angelmodde.png
+  position: 14
+  description: 
+  Liga: 
+  O19: 
+  U19: 
+  homepage: http://tsv-angelmodde.de/neu/sportarten/badminton/ 
+
+- name: BSV Roxel
+  image: /img/vereine/01_roxel.png
+  position: 15
+  description: 
+  Liga: 
+  O19: 
+  U19: 
+  homepage: http://www.roxel-online.eu/bsv-roxel/index.php?page=268 
+
+
+- name: Behinderten-Sport Münster
+  image: /img/vereine/01_bsm.gif
+  position: 16
+  description: 
+  Liga: 
+  O19: 
+  U19: 
+  homepage: http://www.muenster.org/bsm/termine/uebungsgruppen.htm 
+ 

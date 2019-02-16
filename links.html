@@ -1,0 +1,40 @@
+--- 
+
+layout: main 
+sectionid: links 
+
+--- 
+
+
+{% assign links = site.data.links %} {% for links in links %}
+
+<div class="container">
+
+
+     
+                  <div class="row">
+          <div class="col-lg-6" align = "left">
+            <h3 style="clear:both">{{ links.name }}</h3>   
+          </div>
+          <div class="col-lg-6" align "right">
+                
+          </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-2">
+                <img class="verein-logo" src="{{ site.baseurl | append: links.image }}" alt="{{ links.name }} - Foto" />
+          </div>
+          <div class="col-lg-6">
+                  {{ links.description }}
+          </div>
+          {% if links.homepage != null %}
+          <div class="col-sm-1">
+                <p><a class="btn btn-primary btn-sm" href="{{ links.homepage}}" role="button">Homepage</a></p>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+      <br>
+      <br>
+      <div class ="line"></div>
+{% endfor %}

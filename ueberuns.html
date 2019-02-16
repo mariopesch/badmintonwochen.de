@@ -1,0 +1,38 @@
+---
+layout: default
+sectionid: ueberuns 
+---
+
+<div class="header-container jumbotron">
+        <div class="container">
+            <h1>Badminton in Münster</h1>
+            <p>Du interessierst Dich für den Badmintonsport in Münster?</p>
+        </div>
+    </div>
+
+    <div class="container">
+            <div class="row">
+                    <div class ="col-lg-12" align="center">
+                            <p>Hinter Badminton in Münster stecken Mario und Dirk. Nachdem beide die ersten Schläge in ihren Heimatvereinen in Bocholt bzw. Warendorf gemacht haben, zog es sie studienbedingt nach Münster. Dort sind sie seit mehreren Jahren in verschiedenen Funktionen in Vereinen und beim Hochschulsport aktiv. Kontaktieren könnt Ihr Sie unter <a href="mailto:info@badminton-ms.de?subject=Anfrage: Badminton in Münster">info(at)badminton-ms.de</a></p>              
+                        </div>
+                        </div>
+    </div>
+
+<br>
+
+{% assign ueber = site.data.ueber %} {% for ueber in ueber %}
+
+<div class="container">
+<div class = "row">
+        <div class="col-lg-4">
+            <br>
+        <img class="ueber-img" src="{{ site.baseurl | append: ueber.image }}" alt="Image" /></div>
+  <div class="col-lg-4">
+        <h4>{{ ueber.name }}</h4>
+</div>
+</div>
+<br>
+<br>
+<div class="line"></div>
+</div>
+{% endfor %}

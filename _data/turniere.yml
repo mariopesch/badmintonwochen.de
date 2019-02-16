@@ -1,0 +1,64 @@
+- name: Münsteraner Winterturnier
+  image: /img/vereine/01_tussaxmuenster.png
+  position: 1
+  wann: Anfang Januar
+  Ausrichter: TuS Saxonia Münster
+  turnier2017: https://www.turnier.de/sport/tournament.aspx?id=5201B5D4-F1BE-461B-8DFF-BCECF1ACC780
+  turnier2018: https://www.turnier.de/sport/tournament.aspx?id=4BABD267-4DEC-4785-B499-D99A2A927784
+  turnier2019: https://www.turnier.de/sport/tournament.aspx?id=61FC6B58-F1B4-4AC9-ABC3-9C80D87EFF00
+  Ausschreibung: /img/turniere/winterturnier_2019.pdf
+
+- name: Münsteraner Badminton Firmencup
+  image: /img/vereine/01_scmuenster.png
+  position: 2
+  wann: Anfang März
+  Ausrichter: Sc Münster 08
+  turnier2017: 
+  turnier2018: 
+  turnier2019: 
+  Ausschreibung: https://www.scmuenster08.de/badminton-1-muensteraner-firmencup-am-01-03-2019/ 
+
+- name: Offene Münsteraner Stadtmeisterschaften
+  image: /img/vereine/01_tscmuenster.jpg
+  position: 3
+  wann: Wochenende nach Ostern
+  Ausrichter: TSC Münster
+  turnier2017: https://www.turnier.de/sport/tournament.aspx?id=9B07822C-D052-4CD6-8587-4CBC7139F3B6
+  turnier2018: https://www.turnier.de/sport/tournament.aspx?id=748A1E76-1873-42B9-9D7A-2ABAFCD1583F
+  turnier2019: https://www.turnier.de/sport/tournament.aspx?id=6179F909-C7BD-43CB-BCC3-C2F57FF665B3 
+  Ausschreibung: http://tsc-muenster-gievenbeck.de/badminton/2017/files/SM2019.pdf 
+
+- name: Dermasence-Cup
+  image: /img/vereine/01_scmuenster.png
+  position: 4
+  wann: Ende der Sommerferien
+  Ausrichter: SC Münster 08
+  turnier2017: https://www.turnier.de/sport/tournament.aspx?id=94BD50E5-04DD-40AB-AECC-79F2EC1C5E05
+  turnier2018: https://www.turnier.de/sport/tournament.aspx?id=709C3D83-AB6E-4A12-830E-CA89E72FEC91
+  turnier2019:  
+  Ausschreibung:
+
+- name: Doppel- & Mixedturnier
+  image: /img/vereine/01_tscmuenster.jpg
+  position: 5
+  wann: Ende der Herbstferien
+  Ausrichter: TSC Münster
+  turnier2017: https://www.turnier.de/sport/tournament.aspx?id=90A503A4-1502-4CCC-9566-61525F075815
+  turnier2018: https://www.turnier.de/sport/tournament.aspx?id=31712692-592C-489D-A5B2-A32282B4770D
+  turnier2019:
+  Ausschreibung:
+
+- name: Nikolausturnier
+  image: /img/vereine/hsp_logo.svg
+  position: 6
+  wann: Fr./Sa. vor Nikolaus
+  Ausrichter: Hochschulsport Münster
+  turnier2017: https://www.nikolausturnier.de
+  turnier2018: https://www.nikolausturnier.de
+  turnier2019:
+  Ausschreibunglink: https://www.uni-muenster.de/Nikolausturnier/turnier/ausschreibung.html
+
+
+
+
+

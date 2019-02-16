@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<div class="header-container jumbotron">
+        <div class="container">
+            <h1>Badmintonwochen.de</h1>
+            <p>Die sportliche Ferienfreizeit im Münsterland</p>
+        </div>
+    </div>
+
+
+<div class="container">
+ <div class="row">
+        <h1 style="text-align: center;">News</h1>
+        <div class="row blog-preview">
+        {% assign posts = site.posts | sort: 'date' | reverse %}
+        {% for post in posts %}
+          {% if forloop.index0 == 2%}
+            {% break %}
+          {% else %}
+            <a class="col-sm-12 col-md-12 col-lg-12 blog-preview-item" href="{{ site.baseurl | append: post.url }}">
+              <div class="thumbnail">
+                <img src="{{ site.baseurl | append: post.thumbnail }}" alt="{{ post.title }} - Logo">
+                <div class="caption">
+                  <h3>{{ post.title }}</h3>
+                  <p>{{ post.abstract }}</p>
+                  <p><button href="#" class="btn" role="button">mehr</button>
+                </div>
+              </div>
+            </a>
+          {% endif %}
+        {% endfor %}
+        </div>
+        <div style="text-align: center;">
+          <p><a class="btn" href="{{ site.baseurl | append: "/ausschreibung" }}" role="button">zu den News</a></p>
+        </div>
+ </div>   
+<h1 style="text-align: center;">Partner</h1>
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="row sponsor">
+          <ul>
+            <li>
+              <a href="https://www.scmuenster08.de/badminton/" target="_blank">
+                <img src="{{ site.baseurl | append: "/img/sponsors/muenster08.png" }}" alt="Münster 08">
+              </a>
+            </li>
+            <li>
+                    <a href="https://www.victor-europe.com/" target="_blank">
+                      <img src="{{ site.baseurl | append: "/img/sponsors/VICTOR-Logo_rgb.png" }}" alt="Victor">
+                    </a>
+            </li>
+            <li>
+                    <a href="https://senacor.com/" target="_blank">
+                      <img src="{{ site.baseurl | append: "/img/sponsors/Senacor-Logo-Petrol.svg" }}" alt="Senacor">
+                    </a>
+            </li>
+            <li>
+                    <a href="https://www.warendorfer-su.de/badminton/badminton-aktuelles" target="_blank">
+                      <img src="{{ site.baseurl | append: "/img/sponsors/wsu-logo.png" }}" alt="WSU">
+                    </a>
+            </li>
+            <li>
+                    <a href="https://www.tvjahnrheine.de/de/sportarten/badminton/" target="_blank">
+                      <img src="{{ site.baseurl | append: "/img/sponsors/logo-jahn-rheine.png" }}" alt="Jahn-Rheine">
+                    </a>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>

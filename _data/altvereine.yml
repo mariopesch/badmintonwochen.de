@@ -1,0 +1,29 @@
+- name: Hochschulsport Münster
+  image: /img/vereine/hsp_logo.svg
+  position: 1
+  description: Der Hochschulsport bietet Trainings- und Spielzeiten im Kursformat für Anfänger und Fortgeschrittene an, hierbei richtet das Kursprogramm nach Vorlesungs- und Vorlesungsfreier Zeit. Insbesondere für Neulinge in der Stadt bietet er ein unschlagbar günstiges Preis-/Leisungsverhältnis. 
+  homepage: https://muenster.hochschulsport-nrw.de/angebote/aktueller_zeitraum/_Badminton.html
+  facebook: https://www.facebook.com/hochschulsport.ms
+
+- name: Sportpark Roxel
+  image: /img/vereine/spproxel.png
+  position: 2
+  description: Der Sportpark Roxel bietet neben einem Fitnessstudio und drei Squashcourts Badminton auf bis zu vier Feldern an. 
+  homepage: https://sportpark-roxel.de
+  facebook: https://www.facebook.com/sportparkroxelmuenster/
+
+- name: Sportline Münster
+  image: /img/vereine/sportline.png
+  position: 3
+  description: Das Sportline bietet in Münsters Süden neben Tennisplätzen das Badmintonspiel auf acht Spielfeldern an. 
+  homepage: https://www.sportline-muenster.de
+
+- name: Betriebssport-Verband Münster e.V.
+  image: /img/vereine/bsv_logo.png
+  position: 4
+  description: Im BSV Münster organisieren sich eine Reihe von Betriebssportmannschaften, die sogar seit vielen Jahren in einem Mannschaftswettkampf den Stadtmeister küren. 
+  homepage: https://www.bsv-muenster.de/sportarten/liste/badminton/
+
+
+
+

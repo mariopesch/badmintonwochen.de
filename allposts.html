@@ -7,7 +7,7 @@ sectionid: blog
 
 <div class="container">
     <div class="inner-content">
-        <h1>Alle News</h1> {% for page in site.posts %}
+        <h1>Ausschreibungen</h1> {% for page in site.posts %}
         <p>
             <strong><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></strong>
             <span>am {{ page.date | date: "%B %e, %Y" }} {% if page.author %} von {{ page.author }}{% endif %}</span>

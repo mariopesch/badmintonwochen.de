@@ -1,26 +1,43 @@
 --- 
-
 layout: main 
-sectionid: badmintonwochen 
-
+sectionid: badmintonwochen
+image1: /img/badmintonwochen/DSC01914.jpg
+image2: /img/badmintonwochen/muenster18.jpg
+image3: /img/badmintonwochen/janush.png
+image4: /img/badmintonwochen/anne.png
+slider:
+  text_color: white
+  shadow_color: black
+  slides: 
+    - image: /img/sliders/DSC01817.jpg
+      slide_html:
+    - image: /img/sliders/DSC01822.jpg
+      slide_html: 
+    - image: /img/sliders/DSC01825.jpg
+      slide_html: 
+    - image: /img/sliders/DSC01827.jpg
+      slide_html: 
 --- 
 
 <div class="container">
         <div class="row">
                 <div class ="col-lg-12" align="center">
-                    <p>Die Badmintonwochen</p>
+                    <h1>Die Badmintonwochen</h1>
                 </div>
                     </div>
 </div>
 
 <div class ="container">
     <div class="row">
-<h1>Das Projekt</h1>
+        <div class="col-lg-12">
+<h2>Das Projekt</h2>
 <p>Im Jahr 2003 auf Grundlage der anfänglichen Idee eines Trainingslagers für jugendliche Vereinsspieler wurden die Badmintonwochen schnell zu einer kostengünstigen, abwechslungsreichen, sportlichen Ferienfreizeit für jede Leistungsklasse. Mittlerweile haben knapp 1000 Teilnehmer an mehr als 35 Badmintonwochen teilgenommen. Dabei blieb das Hauptziel jedoch immer das Gleiche:
 „Die Kombination des schnellsten Rückschlagsports 
 der Welt mit großem Fun-Faktor“</p>
+{% include image.html image=page.image1 %}
 
-<h1>Das Konzept</h1>
+
+<h2>Das Konzept</h2>
 <p>Eine gewöhnliche Badmintonwoche beginnt montags und endet freitags, das Programm läuft täglich von 10.00 Uhr bis 17.00 Uhr. An jeder Badmintonwoche können in Abhängigkeit der Hallenkapazität zwischen 24 und 32 Kinder und Jugendliche zwischen 10 und 18 Jahren teilnehmen, ganz gleich, ob Anfänger oder NRW-Ranglistenspieler, ob Mädchen oder Jungen. Da die Badminton-Einheiten in verschiedenen Gruppen absolviert werden, spielt der Leistungsstand keine Rolle. 
 Darüber hinaus ist Badminton eine Sportart, in der sich schnell Erfolge einstellen, sodass jeder Interessierte auf seine Kosten kommt und Erfolgserlebnisse feiert. 
 
@@ -28,6 +45,44 @@ Neben dem Badmintonsport stehen noch zahlreiche andere Highlights auf dem Progra
 Für das leibliche Wohl der Teilnehmer der Badmintonwochen zeichnen sich unter anderem Mensen und Großküchen verantwortlich, die schon in den letzten Jahren mit sportlergerechten Köstlichkeiten überzeugten. Außerdem stehen während der ganzen Woche für die TeilnehmerInnen Getränke bereit, die wie das Mittagessen im Preis enthalten sind. 
 
 Am Ende der Woche werden sämtliche Teilnehmer mit kleinen und großen Präsenten beschenkt, deren Rangfolge aus der so genannten „Kampf-Wertung“ hervorgeht. So fließen neben sportlichen Erfolgen auch das Verhalten auf und außerhalb des Courts und das menschliche Miteinander in diese Wertung ein, sodass die Aktiven darüber hinaus ihre Social Skills erweitern und verbessern. 
+
+{% include image.html image=page.image2 %}
+<em>TeilnehmerInnen der Badmintonwochen in Münster 2018</em>
 </p>
+
+<h2>Die Träger & Partnervereine</h2>
+<p>Träger, Ausrichter und Veranstalter sind aktuell der Stadtwald-Sportpark e.V. (Bocholt), die Warendorfer SU e.V., TV Jahn Rheine sowie der SC Münster 08. Außerdem erfährt das Projekt Förderung vom KreisSportBund Borken. Wir sind auf der Suche nach weiteren Partnern, die die Idee der Badmintonwochen in die Welt hinaustragen.
+    </p>
+
+<h3>Das sagen die Teilnehmer</h3>
+<div class="row">
+<div class="col-lg-6">
+        {% include image.html image=page.image3 %}
+</div>
+<div class="col-lg-6">
+    <h4>Janush (21)</h4>
+    <em>Münsteraner Badmintonwochen 2008 - 2010</em>
+    <p>„Da es verschiedene Leistungsgruppen gibt, kommt jeder auf seine Kosten und man kann sich individuell verbessern. Das Showmatch zwischen zwei starken Spielern war für mich ebenfalls ein Highlight.“</p>
+</div>
+</div>
+<div class="line"></div>
+<div class="row">
+<div class="col-lg-6">
+        <h4>Anne (10)</h4>
+        <em>Warendorfer Badmintonwoche 2012 & 2013</em>
+        <p>„Die Badmintonwoche war mal wieder total cool. Bin im Badminton schon deutlich besser geworden dank des guten Trainings. Freu mich schon total auf nächstes Jahr.“</p>
+     
+</div>
+<div class="col-lg-6">
+        {% include image.html image=page.image4 %}
+</div>
+</div>
+<h2>Mehr Impressionen</h2>
+
+{% if page.slider %}
+{% include slider.html height="50" unit="%" transition="slide" duration="5" %}
+{% endif %}
+
+</div>
 </div>
 </div>

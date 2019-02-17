@@ -6919,6 +6919,14 @@ body {
     .blog-preview .blog-preview-item .thumbnail {
       height: 100%; }
 
+.post-image {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+  .post-image > img {
+    margin: 2px;
+    max-width: 100%; }
+
 .btn-social {
   position: relative;
   padding-left: 44px;

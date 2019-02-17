@@ -1,19 +1,19 @@
 - name: Stefan Lesch
-  image: /img/ueber/Oertker.jpg
+  image: /img/ueber/Lesch.jpg
   position: 1
-  description: 
+  description: Stefan ist der Vater der Badmintonwochen. Bereits 2002 entwickelte er die Idee einer sportlichen Ferienfreizeit. Stefan ist A-Trainer des DBV und ehemaliger 2. Liga Spieler. Aktuell spielt er in der Oberliga beim SC Münster 08.
 
 - name: Dirk Oertker
   image: /img/ueber/Oertker.jpg
   position: 2
-  description: 
+  description: Dirk hat die Badmintonwochen nach Warendorf gebracht und viele weitere Badmintonwochen im ganzen Münsterland organsiert und durchgeführt. Er ist Lizenztrainer des BLV-NRW und Schulsportreferent für den Bereich Badminton. Aktuell spielt er für die Warendorfer SU in der Landesliga.
 
 - name: Mario Pesch
   image: /img/ueber/Pesch.jpg
   position: 3
-  description: 
+  description: Mario ist Teilnehmer der ersten Stunde und hat später die Badmintowochen als Organsisator und Trainer in Bocholt unterstützt. Er ist C-Trainer und spielt aktuell für den SC Münster 08 in der Landesliga. 
 
 - name: Lutz Albers
-  image: /img/ueber/Pesch.jpg
+  image: /img/ueber/Albers.jpg
   position: 4
   description: 

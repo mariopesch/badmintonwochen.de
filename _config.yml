@@ -16,6 +16,8 @@ bootwatch: paper
 # Build settings
 markdown: kramdown
 highlighter: rouge
+sass:
+    style: compressed
 gems:
   - jekyll-feed
   - jekyll-redirect-from

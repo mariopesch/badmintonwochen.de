@@ -1,8 +1,8 @@
 # Site settings
 title: Badmintonwochen.de
 email: mario.pesch@uni-muenster.de
-description: >
-  Badmintonwochen sind eine sportliche Ferienfreizeit im Münsterland
+description: 
+  Badmintonwochen! Die sportliche Ferienfreizeit im Münsterland und Umgebung
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://badmintonwochen.de # the base hostname & protocol for your site

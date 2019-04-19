@@ -1,0 +1,17 @@
+---
+title: Neuigkeiten
+layout: default
+sectionid: news
+---
+
+
+<div class="container">
+    <div class="inner-content">
+        <h1>Neuigkeiten</h1> {% for news in site.news %}
+        <p>
+            <strong><a href="{{ news.url | prepend: site.baseurl }}">{{ news.title }}</a></strong>
+            <span>am {{ news.date | date: "%B %e, %Y" }} {% if news.author %} von {{ news.author }}{% endif %}</span>
+        </p>
+        {% endfor %}
+    </div>
+</div>

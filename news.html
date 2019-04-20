@@ -4,14 +4,43 @@ layout: default
 sectionid: news
 ---
 
-
+{% assign news = site.news | sort: 'date' | reverse %}
+{% for news in news %}
 <div class="container">
-    <div class="inner-content">
-        <h1>Neuigkeiten</h1> {% for news in site.news %}
-        <p>
-            <strong><a href="{{ news.url | prepend: site.baseurl }}">{{ news.title }}</a></strong>
-            <span>am {{ news.date | date: "%B %e, %Y" }} {% if news.author %} von {{ news.author }}{% endif %}</span>
-        </p>
-        {% endfor %}
-    </div>
+  <div class="row">
+    <a href="{{ site.baseurl | append: news.url }}">
+      {% if news.thumbnail %}
+        <div class="col-lg-6 col-sm-6">
+          <h2 class="news-title">{{ news.title }}</h2>
+          <div class="clearfix">
+            <strong>Am {{ news.date | date: "%d/%m/%Y" }}</strong><span class="author"> von {{ news.author }} </span>
+          </div>
+          <div class="news-abstract">
+            <p>
+              {{ news.abstract }}
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-6 hidden-xs">
+            <div class="thumbnail">
+          <img src="{{ site.baseurl | append: news.thumbnail }}" alt="{{ news.title }} - Logo"/>
+        </div>
+        </div>
+      {% else %}
+        <div class="col-lg-12">
+          <h2 class="news-title">{{ news.title }}</h2>
+          <div class="clearfix">
+            <strong>{{ news.date | date: "%d/%m/%Y" }}</strong><span class="author">von {{ news.author }} </span>
+          </div>
+          <div class="news-abstract">
+            <p>
+              {{ news.abstract }}
+            </p>
+          </div>
+        </div>
+      {% endif %}
+    </a>
+  </div>
+  <hr class="clear nomargin">
 </div>
+{% endfor %}

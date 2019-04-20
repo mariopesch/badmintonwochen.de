@@ -10,9 +10,9 @@ layout: default
                 <h4>Neuigkeiten</h4>
                 <ul class="list-unstyled post-list-container">
                     {% for news in site.news limit:10 %}
-                    <li><a href="{{ post.url | prepend: site.baseurl }}" {% if page.title==news.title %} class="active" {% endif %}>{{ news.title }}</a></li>
+                    <li><a href="{{ news.url | prepend: site.baseurl }}" {% if page.title==news.title %} class="active" {% endif %}>{{ news.title }}</a></li>
                     {% endfor %}
-                    <li><a href="{{ "/news" | prepend: site.baseurl }}">Alle News</a></li>
+                    <li><a href="{{ "/news.html" | prepend: site.baseurl }}">Alle News</a></li>
                 </ul>
             </div>
         </div>

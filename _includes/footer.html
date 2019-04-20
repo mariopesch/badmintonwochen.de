@@ -13,6 +13,7 @@
         </div>
         <div class="footer-content">
           <ul>
+              <li {% if page.sectionid=='news' %} class="active" {% endif %}><a href="{{ "/news.html" | prepend: site.baseurl }}">Neuigkeiten</a></li>
             <li {% if page.sectionid=='altvereine' %} class="active" {% endif %}><a href="{{ "/allposts.html" | prepend: site.baseurl }}">Ausschreibung</a></li>
             <li {% if page.sectionid=='anmeldung' %} class="active" {% endif %}><a href="{{ "/anmeldung.html" | prepend: site.baseurl }}">Anmeldung</a></li>
             <li {% if page.sectionid=='links' %} class="active" {% endif %}><a href="{{ "/ueberuns.html" | prepend: site.baseurl }}">BW-Team</a></li>

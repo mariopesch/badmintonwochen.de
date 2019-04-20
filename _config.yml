@@ -54,4 +54,7 @@ collections:
     output: true
   posts:
     permalink: /blog/:year/:month/:day/:title/
-    output: true
+    output: true  
+  news:
+    permalink: /news/:year/:month/:day/:title/
+    output: true  

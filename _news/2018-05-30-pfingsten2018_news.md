@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Pfignsten 2018 in Münster"
+title: "Pfingsten 2018 in Münster"
 date: 2018-05-30
 author: Mario
 abstract: "Erste Badmintonwoche nach langer Pause in Münster ein voller Erfolg!"

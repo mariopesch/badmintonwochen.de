@@ -20,6 +20,11 @@ sectionid: news
               {{ news.abstract }}
             </p>
           </div>
+        </a>
+          <div class="news-shorten">
+                {{ news.content | truncatewords: 100 }}
+          </div>
+          <p><a href="{{ site.baseurl | append: news.url }}">weiterlesen</a></p>
         </div>
         <div class="col-lg-6 col-sm-6 hidden-xs">
             <div class="thumbnail">

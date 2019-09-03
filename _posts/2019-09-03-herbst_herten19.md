@@ -2,11 +2,11 @@
 layout: post
 title: "Badmintonwochen in den Herbstferien 2019 in Herten"
 date: 2019-09-03
-author: Matthias
-abstract: "Badmitnonwochen wieder im Pott"
-thumbnail: /img/news/ostern_2019.png
-image1: /img/ausschreibung/mbw_2019.jpg
+author: Mario
+abstract: "Matthias und die Badmintonwochen sind zurück im Ruhgebiet"
+thumbnail: /img/news/herbst_herten.png
+image1: /img/ausschreibung/hbw_2019.jpg
 lang: de
 ---
-Freu euch! Auch in diesem Jahr wird es wieder eine Badmintonwochen in Münster geben. Diesmal ein bisschen früher, denn bereits in den Osterferien bieten wir euch vom 15.04.2019-17.04.2019 eine Badmintonwoche an. Die Anmeldung ist [hier]({{ "/anmeldung" | prepend: site.baseurl }}) online möglich. Wie immer gilt "first-come-first-serve"!
+Matthias ist zurück und bringt die Badmintonwochen in den Herbstferien wieder nach Herten. Die Anmeldung ist [hier]({{ "/anmeldung" | prepend: site.baseurl }}) online möglich oder ihr ladet euch den [Anmelebogen]({{ "/img/ausschreibung/hbw_flyer.pdf" | prepend: site.baseurl }}) herunter und gebt diesen ausgefüllt bei Matthias ab. Wie immer gilt "first-come-first-serve"!
 {% include image.html image=page.image1 %}

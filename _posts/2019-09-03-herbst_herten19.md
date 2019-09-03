@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Badmintonwochen Ostern 2019 in Münster"
-date: 2019-02-14
-author: Mario
-abstract: "Auch in diesen Jahr wird es wieder die Badmintonwochen in Münster geben"
+title: "Badmintonwochen in den Herbstferien 2019 in Herten"
+date: 2019-09-03
+author: Matthias
+abstract: "Badmitnonwochen wieder im Pott"
 thumbnail: /img/news/ostern_2019.png
 image1: /img/ausschreibung/mbw_2019.jpg
 lang: de

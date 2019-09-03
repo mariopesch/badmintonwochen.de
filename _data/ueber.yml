@@ -1,19 +1,24 @@
 - name: Stefan Lesch
   image: /img/ueber/Lesch.jpg
   position: 1
-  description: Stefan ist der Vater der Badmintonwochen. Bereits 2002 entwickelte er die Idee einer sportlichen Ferienfreizeit. Stefan ist A-Trainer des DBV und ehemaliger 2. Liga Spieler. Aktuell spielt er in der Oberliga beim SC Münster 08.
+  description: Stefan ist der Vater der Badmintonwochen. Bereits 2002 entwickelte er die Idee einer sportlichen Ferienfreizeit. Stefan ist A-Trainer des DBV und ehemaliger 2. Liga Spieler. Aktuell spielt er in der Verbandsliga beim TV Emsdetten.
 
 - name: Dirk Oertker
   image: /img/ueber/Oertker.jpg
   position: 2
-  description: Dirk hat die Badmintonwochen nach Warendorf gebracht und viele weitere Badmintonwochen im ganzen Münsterland organisiert und durchgeführt. Er ist Lizenztrainer und stellvertretender Schulsportreferent Badminton in NRW. Aktuell spielt er für die Warendorfer SU in der Landesliga.
+  description: Dirk hat die Badmintonwochen nach Warendorf gebracht und viele weitere Badmintonwochen im ganzen Münsterland organisiert und durchgeführt. Er ist Lizenztrainer und stellvertretender Schulsportreferent Badminton in NRW. Aktuell spielt er für die Warendorfer SU in der Verbandsliga.
 
 - name: Mario Pesch
   image: /img/ueber/Pesch.jpg
   position: 3
-  description: Mario ist Teilnehmer der ersten Stunde und hat später die Badmintowochen als Organsisator und Trainer in Bocholt unterstützt. Er ist C-Trainer und spielt aktuell für den SC Münster 08 in der Landesliga. 
+  description: Mario ist Teilnehmer der ersten Stunde und hat später die Badmintowochen als Organsisator und Trainer in Bocholt unterstützt. Er ist C-Trainer und spielt aktuell für den SC Münster 08 in der Verbandsliga. 
 
 - name: Lutz Albers
   image: /img/ueber/Albers.jpg
   position: 4
   description: Lutz hat nach kurzer Hospitationszeit in Münster 2018 die erste Badmintonwoche in Rheine initiiert, organisiert und geleitet. Des weiteren engagiert er sich als Funktionär und Ideengeber im Kreis Steinfurt und spielt derzeit bei seinem Heimatverein TV Jahn Rheine.
+
+- name: Matthias Fuhrmann
+  image: /img/ueber/Fuhrmann.jpg
+  position: 5
+  description: Matthias hat die Badmintonwochen aus dem Münsterland in den Pott gebracht. Während seines Studiums war er bei den ersten Badmintonwochen in Münster mitdabei. Er ist C-Trainer und spielt seit seinem Umzug in den Pott beim 1. BC Recklinghausen in der Verbands- und Landesiga.

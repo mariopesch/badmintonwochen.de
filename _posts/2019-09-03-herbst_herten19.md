@@ -8,5 +8,5 @@ thumbnail: /img/news/herbst_herten.png
 image1: /img/ausschreibung/hbw_2019.jpg
 lang: de
 ---
-Matthias ist zurück und bringt die Badmintonwochen in den Herbstferien wieder nach Herten. Die Anmeldung ist [hier]({{ "/anmeldung" | prepend: site.baseurl }}) online möglich oder ihr ladet euch den [Anmelebogen]({{ "/img/ausschreibung/hbw_flyer.pdf" | prepend: site.baseurl }}) herunter und gebt diesen ausgefüllt bei Matthias ab. Wie immer gilt "first-come-first-serve"!
+Matthias ist zurück und bringt die Badmintonwochen in den Herbstferien wieder nach Herten. Die Anmeldung ist [hier]({{ "/anmeldung" | prepend: site.baseurl }}) online möglich oder ihr ladet euch den [Anmeldebogen]({{ "/img/ausschreibung/hbw_flyer.pdf" | prepend: site.baseurl }}) herunter und gebt diesen ausgefüllt bei Matthias ab. Wie immer gilt "first-come-first-serve"!
 {% include image.html image=page.image1 %}

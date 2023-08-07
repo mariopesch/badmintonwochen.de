@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
-gem "jekyll", "3.6.3"
+gem "jekyll", "~> 4.2.0"
 
 # to use GitHub Pages
 # gem "github-pages", group: :jekyll_plugins
@@ -16,3 +16,6 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Added at 2023-08-07 17:41:01 +0200 by mariopesch:
+gem "webrick", "~> 1.8"

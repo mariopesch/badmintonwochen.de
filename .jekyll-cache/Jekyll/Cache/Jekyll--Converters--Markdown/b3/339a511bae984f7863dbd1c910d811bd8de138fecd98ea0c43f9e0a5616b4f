@@ -1,4 +1,0 @@
-I"<p>By default, this website uses <code class="language-plaintext highlighter-rouge">paper</code> theme, but you can change it to another <a href="https://bootswatch.com/3/">bootwatch theme</a> by setting
-<code class="language-plaintext highlighter-rouge">bootwatch</code> variable in <code class="language-plaintext highlighter-rouge">_config.yml</code> file.
-(Don’t forget to restart <code class="language-plaintext highlighter-rouge">Jekyll</code> if you are running locally because the configuration is not re-read upon change.)</p>
-:ET

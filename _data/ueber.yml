@@ -11,14 +11,13 @@
 - name: Mario Pesch
   image: /img/ueber/Pesch.jpg
   position: 3
-  description: Mario ist Teilnehmer der ersten Stunde und hat später die Badmintowochen als Organsisator und Trainer in Bocholt unterstützt. Er ist C-Trainer und spielt aktuell für den SC Münster 08 in der Verbandsliga. 
+  description: Mario ist Teilnehmer der ersten Stunde und hat später die Badmintowochen als Organsisator und Trainer in Bocholt unterstützt. Er ist C-Trainer und spielt aktuell für den SC Münster 08 in der Verbandsliga.
 
 - name: Lutz Albers
   image: /img/ueber/Albers.jpg
   position: 4
   description: Lutz hat nach kurzer Hospitationszeit in Münster 2018 die erste Badmintonwoche in Rheine initiiert, organisiert und geleitet. Des weiteren engagiert er sich als Funktionär und Ideengeber im Kreis Steinfurt und spielt derzeit bei seinem Heimatverein TV Jahn Rheine.
-
-- name: Matthias Fuhrmann
-  image: /img/ueber/Fuhrmann.jpg
-  position: 5
-  description: Matthias hat die Badmintonwochen aus dem Münsterland in den Pott gebracht. Während seines Studiums war er bei den ersten Badmintonwochen in Münster mitdabei. Er ist C-Trainer und spielt seit seinem Umzug in den Pott beim 1. BC Recklinghausen in der Verbands- und Landesliga.
+# - name: Matthias Fuhrmann
+#   image: /img/ueber/Fuhrmann.jpg
+#   position: 5
+#   description: Matthias hat die Badmintonwochen aus dem Münsterland in den Pott gebracht. Während seines Studiums war er bei den ersten Badmintonwochen in Münster mitdabei. Er ist C-Trainer und spielt seit seinem Umzug in den Pott beim 1. BC Recklinghausen in der Verbands- und Landesliga.
